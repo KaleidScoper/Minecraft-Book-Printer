@@ -1,0 +1,2 @@
+# Minecraft-Book-Printer
+自动化将txt纯文本转化为Minecraft成书的脚本。适用于任何版本的任何书与笔，包括模组中任何类似原版书籍交互页面的可输入物品。
