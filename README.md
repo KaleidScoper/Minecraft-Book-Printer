@@ -1,4 +1,5 @@
 # Minecraft-Book-Printer
+<center>![MC成书打印机](Written_Book_JE2_BE2.webp)</center>
 
 本项目基于B站用户[懒羊羊Tetrazole](https://space.bilibili.com/1084866085)的[项目](https://github.com/LanYangYang321/Minecraft-Book-Printer)修改而成，原本的代码存在很多问题导致可用性很差。
 
