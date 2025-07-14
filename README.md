@@ -1,7 +1,6 @@
 # Minecraft-Book-Printer
-<center>![MC成书打印机](Written_Book_JE2_BE2.webp)</center>
 
-本项目基于B站用户[懒羊羊Tetrazole](https://space.bilibili.com/1084866085)的[项目](https://github.com/LanYangYang321/Minecraft-Book-Printer)修改而成，原本的代码存在很多问题导致可用性很差。
+本项目基于B站用户[懒羊羊Tetrazole](https://space.bilibili.com/1084866085)的[项目](https://github.com/LanYangYang321/Minecraft-Book-Printer)修改而成，原本的代码存在很多问题导致可用性很差。<center>![MC成书打印机](Written_Book_JE2_BE2.webp)</center>
 
 ## 功能：
 自动化将txt纯文本转化为Minecraft成书的脚本。适用于任何版本的任何书与笔，包括模组中任何类似原版书籍交互页面的可输入物品。
